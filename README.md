@@ -35,7 +35,8 @@ o	Use Matplotlib to plot the message signal, carrier signal, and phase-modulated
 
 
 ### Output
-![WhatsApp Image 2025-11-15 at 23 28 17_2c7981de](https://github.com/user-attachments/assets/1297d20c-f27c-4a85-bc18-9aed7bc00e36)
+![WhatsApp Image 2025-10-23 at 16 21 08_472c89c9](https://github.com/user-attachments/assets/d37e8c70-a9a7-405f-824a-465dcef03c99)
+
 
 
 ### Result
